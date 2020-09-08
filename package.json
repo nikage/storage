@@ -24,7 +24,7 @@
     ]
   },
   "dependencies": {
-    "@bumble/chrome-rxjs": "^0.5.0",
+    "@bumble/chrome-rxjs": "https://github.com/nikage/events-rxjs#v0.5.0",
     "@bumble/timeout": "^0.1.0",
     "chrome-promise": "^3.0.5",
     "rxjs": "^6.5.2"
